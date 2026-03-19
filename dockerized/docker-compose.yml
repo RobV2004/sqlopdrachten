@@ -4,7 +4,7 @@ services:
     volumes:
       - mariadb_data:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: 3dfgr4ssfgf
+      MYSQL_ROOT_PASSWORD: cisco
     ports:
       - 3306:3306
     networks:
