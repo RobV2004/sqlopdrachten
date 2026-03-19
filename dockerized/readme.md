@@ -8,4 +8,4 @@
 * Start een webbrowser
 * ga naar de volgende url: http://localhost:8080
 Je kunt nu inloggen in PHPMyadmin
-Wactwoorden kun je vinden in het bestand dovcker-compose.yml, deze kun je indien gewenst zelf aanpassen.
+Wactwoorden kun je vinden in het bestand docker-compose.yml, deze kun je indien gewenst zelf aanpassen.
